@@ -1,0 +1,9 @@
+body {
+    padding-top: 70px;
+    background-image: url(tampilan/images/backgroundd.jpg);
+}
+
+.row-padding {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
